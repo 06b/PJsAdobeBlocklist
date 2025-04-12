@@ -102,7 +102,7 @@ store2.adobe.com
 162.247.242.20
 199.232.114.137
 uds.licenses.adobe.com
-k.sni.global.fastly.net
+#k.sni.global.fastly.net
 workflow-ui-prod.licensingstack.com
 services.adobe.com
 lcs-entitlement.adobe.io/v1/trialadobe.com
@@ -187,7 +187,7 @@ workflow.licenses.adobe.com
 auth.services.adobe.com
 
 #Deployment and fulfillment services:
-adminconsole.adobe.com
+adminconsole.adobe.comhttps://raw.githubusercontent.com/UncleRoger33/adobe-blocklist/main/AdobeBlocklist.txt
 cc-ext-prod-pkgs.s3.amazonaws.com
 ccmdls.adobe.com
 ccmdl.adobe.com
